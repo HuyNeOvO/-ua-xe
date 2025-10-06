@@ -1,1 +1,2 @@
-phải tải libsdl mới chỉnh sửa đc code và chạy đc file (SDL3.dll)
+phải tải libsdl mới chỉnh sửa đc code
+để chạy đc file exe thì tải thêm SDL3.dll
